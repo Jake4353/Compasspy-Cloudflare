@@ -1,6 +1,6 @@
 ### Fork of https://github.com/Artucuno/Compasspy as it no longer works.
 # Compasspy
-Simplest and probably only Python Package to scrape compass.education
+Simplest and probably only *working* Python Package to scrape compass.education
 
 ## Installation
 ```
