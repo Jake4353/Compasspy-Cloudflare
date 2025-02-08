@@ -1,12 +1,10 @@
 # Compasspy
-Python Library for compass.education
+Simplest and probably only Python Package to scrape compass.education
 
 ## Installation
 ```
-pip install -U git+https://github.com/Artucuno/Compasspy
-```
-
-
+pip install -U git+https://github.com/Jake4353/Compasspy-Cloudflare
+```  
 ## Simple Example
 ```py
 from compasspy.client import Compass
