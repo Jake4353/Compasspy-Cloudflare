@@ -15,6 +15,3 @@ client = Compass('<School Subdomain>', '<Authentication Cookie>')
 client.login()
 ```
 [More Examples](/examples) | [How to get Authentication Cookie](/examples/cookie.md)
-
-
-https://compassapi.xyz
