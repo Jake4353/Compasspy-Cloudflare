@@ -10,7 +10,7 @@ pip install -U git+https://github.com/Artucuno/Compasspy
 ## Simple Example
 ```py
 from compasspy.client import Compass
-                  # school domain is the ```ExampleSchool```.compass.education
+                  # school domain is the "ExampleSchool".compass.education
 client = Compass('<School Subdomain>', '<Authentication Cookie>')
 client.login()
 ```
